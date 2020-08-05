@@ -1,1 +1,1 @@
-Study Case: Dev. App - Netflix - React Native
+Study Case: Dev. App
